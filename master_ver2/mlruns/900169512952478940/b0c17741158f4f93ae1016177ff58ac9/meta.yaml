@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/001.Developement%20of%20Company%20Work/Code_Example/AutoTuning/master_ver2/mlruns/900169512952478940/b0c17741158f4f93ae1016177ff58ac9/artifacts
+end_time: 1711082824866
+entry_point_name: ''
+experiment_id: '900169512952478940'
+lifecycle_stage: active
+run_id: b0c17741158f4f93ae1016177ff58ac9
+run_name: Decision Tree Regressor
+run_uuid: b0c17741158f4f93ae1016177ff58ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711082824286
+status: 3
+tags: []
+user_id: LeeHyunMin

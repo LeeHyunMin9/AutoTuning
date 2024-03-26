@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/001.Developement%20of%20Company%20Work/Code_Example/AutoTuning/master_ver2/mlruns/900169512952478940/afd9220075a841d1aa13f9d3a82c3465/artifacts
+end_time: 1711082842623
+entry_point_name: ''
+experiment_id: '900169512952478940'
+lifecycle_stage: active
+run_id: afd9220075a841d1aa13f9d3a82c3465
+run_name: Session Initialized 0f27
+run_uuid: afd9220075a841d1aa13f9d3a82c3465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711082742785
+status: 3
+tags: []
+user_id: LeeHyunMin

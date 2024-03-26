@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+dependencies:
+- pip<=24.0
+- pip:
+  - mlflow==2.11.2
+  - pycaret==3.3.0
+name: motor_experiment-env

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/001.Developement%20of%20Company%20Work/Code_Example/AutoTuning/master_ver2/mlruns/900169512952478940/7213af7787ca4d369e7d80c730eaa198/artifacts
+end_time: 1711083152847
+entry_point_name: ''
+experiment_id: '900169512952478940'
+lifecycle_stage: active
+run_id: 7213af7787ca4d369e7d80c730eaa198
+run_name: Extreme Gradient Boosting
+run_uuid: 7213af7787ca4d369e7d80c730eaa198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711083151623
+status: 3
+tags: []
+user_id: LeeHyunMin

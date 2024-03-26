@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/001.Developement%20of%20Company%20Work/Code_Example/AutoTuning/master_ver2/mlruns/900169512952478940/d8947552fd4d48d4a02a997b95526527/artifacts
+end_time: 1711082820159
+entry_point_name: ''
+experiment_id: '900169512952478940'
+lifecycle_stage: active
+run_id: d8947552fd4d48d4a02a997b95526527
+run_name: Gradient Boosting Regressor
+run_uuid: d8947552fd4d48d4a02a997b95526527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711082819533
+status: 3
+tags: []
+user_id: LeeHyunMin

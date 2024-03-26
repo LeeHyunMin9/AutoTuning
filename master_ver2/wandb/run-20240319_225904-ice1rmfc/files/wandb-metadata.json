@@ -1,0 +1,39 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.8",
+    "heartbeatAt": "2024-03-19T13:59:07.718633",
+    "startedAt": "2024-03-19T13:59:04.898085",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:\\001.Developement of Company Work\\Code_Example\\AutoTuning\\master_ver2\\plot_tools.py",
+    "codePathLocal": "plot_tools.py",
+    "codePath": "plot_tools.py",
+    "host": "LeeHyunMin",
+    "username": "LeeHyunMin",
+    "executable": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1900.0,
+        "min": 0.0,
+        "max": 1900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1900.0,
+            "min": 0.0,
+            "max": 1900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 227.17773056030273,
+            "used": 171.65509414672852
+        }
+    },
+    "memory": {
+        "total": 15.570232391357422
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/001.Developement%20of%20Company%20Work/Code_Example/AutoTuning/master_ver2/mlruns/900169512952478940/a8849af644be411f908f9bf7e1c0daa8/artifacts
+end_time: 1711072056181
+entry_point_name: ''
+experiment_id: '900169512952478940'
+lifecycle_stage: active
+run_id: a8849af644be411f908f9bf7e1c0daa8
+run_name: Extra Trees Regressor
+run_uuid: a8849af644be411f908f9bf7e1c0daa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711072055320
+status: 3
+tags: []
+user_id: LeeHyunMin

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/001.Developement%20of%20Company%20Work/Code_Example/AutoTuning/master_ver2/mlruns/900169512952478940/05ff674119d34fbcbfa8a34cb7366954/artifacts
+end_time: 1711072054249
+entry_point_name: ''
+experiment_id: '900169512952478940'
+lifecycle_stage: active
+run_id: 05ff674119d34fbcbfa8a34cb7366954
+run_name: Huber Regressor
+run_uuid: 05ff674119d34fbcbfa8a34cb7366954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711072053571
+status: 3
+tags: []
+user_id: LeeHyunMin

@@ -1,0 +1,157 @@
+{
+    "basic_experiment" : [
+    {
+       "inertia_gain": "150,300,450,600,750,900",
+       "damper_gain" : "67,100,134",
+       "first_pole" : "10,25,50,75",
+       "second_pole" : "200,400,700",
+       "integral_pole" : "200,300,400",
+       "acc_time" : "0.01,0.04,0.07,0.10",
+       "real_inertia" : "3,6,9",
+       "speed_allow" : "100",
+       "init_acc_time" : "1.0"
+    }
+    ],
+    "finner_experiment" : [
+      {
+         "inertia_gain": "50,150,300,450,600,750,900",
+         "damper_gain" : "67,100,134",
+         "first_pole" : "10,25,50,75",
+         "second_pole" : "200,300,400,500,600,700",
+         "integral_pole" : "200,300,400",
+         "acc_time" : "0.01,0.04,0.07,0.10",
+         "real_inertia" : "3,6,9",
+         "speed_allow" : "100",
+         "init_acc_time" : "1.0"
+      }
+      ],
+   "test_inner_experiment" : [
+      {
+         "inertia_gain" : "200,350,500",
+         "damper_gain" : "67,100,134",
+         "first_pole" : "10,20,30,60",
+         "second_pole" : "250,450,650",
+         "integral_pole" : "250,350",
+         "acc_time" : "0.01,0.04,0.07,0.10",
+         "real_inertia" : "3,6,9",
+         "speed_allow" : "100",
+         "init_acc_time": "1.0"
+      }
+
+   ],
+
+    "data_generation_sp1" : [
+    {
+       "inertia_gain": "150,300,450,600,750,900",
+       "damper_gain" : "67,100,134",
+       "first_pole" : "10,25,50,75",
+       "second_pole" : "300,500,600",
+       "integral_pole" : "200,300,400",
+       "acc_time" : "0.01,0.04,0.07,0.10",
+       "real_inertia" : "3,6,9",
+       "speed_allow" : "100",
+       "init_acc_time" : "1.0"
+    }
+    ],
+    "data_generation_sp2" : [
+      {
+         "inertia_gain": "50,100",
+         "damper_gain" : "67,100,134",
+         "first_pole" : "10,25,50,75",
+         "second_pole" : "300,500,600",
+         "integral_pole" : "200,300,400",
+         "acc_time" : "0.01,0.04,0.07,0.10",
+         "real_inertia" : "3,6,9",
+         "speed_allow" : "100",
+         "init_acc_time" : "1.0"
+      }
+      ],
+   "test_case" :
+   [
+      {
+         "inertia_gain": "150",
+         "damper_gain" : "100",
+         "first_pole" : "15",
+         "second_pole" : "200",
+         "integral_pole" : "300",
+         "acc_time" : "0.1",
+         "real_inertia" : "3",
+         "speed_allow" : "100",
+         "init_acc_time" : "1.0"
+
+      }
+   ],
+   "data_generation_Hyeon_Seo" :
+   [
+      {
+         "inertia_gain": "150,200,250,300,350,400,450",
+         "damper_gain" : "67",
+         "first_pole" : "10,25,50,75",
+         "second_pole" : "200,300,400,500,600,700",
+         "integral_pole" : "200,300,400",
+         "acc_time" : "0.01,0.04,0.07,0.10",
+         "real_inertia" : "0",
+         "speed_allow" : "100",
+         "init_acc_time" : "1.0"
+      }
+   ],
+   "data_generation_Small_Joint" :
+   [
+      {
+         "inertia_gain": "150,200,250",
+         "damper_gain" : "67,100,134",
+         "first_pole" : "10,25,50,75",
+         "second_pole" : "500,600,700",
+         "integral_pole" : "200,300,400",
+         "acc_time" : "0.01,0.04,0.07,0.10",
+         "real_inertia" : "0",
+         "speed_allow" : "100",
+         "init_acc_time" : "1.0"
+      }
+   ],
+   "data_generation_Zero_460W":
+   [
+      {
+         "inertia_gain": "450,600",
+         "damper_gain" : "67,100,134",
+         "first_pole" : "10,25,50,75",
+         "second_pole" : "200,400,700",
+         "integral_pole" : "200,300,400",
+         "acc_time" : "0.01,0.1,0.4,1.0",
+         "real_inertia" : "9",
+         "speed_allow" : "100",
+         "init_acc_time" : "1.0"
+      }
+   ],
+
+
+   "meta_learning_task" :
+   [
+      {
+         "inertia_gain": "50,150,300,450,600,750,900",
+         "damper_gain" : "67,100,134",
+         "first_pole" : "10,25,50,75",
+         "second_pole" : "200,300,400,500,600,700",
+         "integral_pole" : "200,300,400",
+         "acc_time" : "0.01",
+         "real_inertia" : "9",    
+         "speed_allow" : "100",
+         "init_acc_time" : "1.0"
+      }
+   ],
+
+   "dummy_finner_experiment" : [
+      {
+         "inertia_gain": "50",
+         "damper_gain" : "67",
+         "first_pole" : "10",
+         "second_pole" : "200",
+         "integral_pole" : "200",
+         "acc_time" : "0.01",
+         "real_inertia" : "3",
+         "speed_allow" : "100",
+         "init_acc_time" : "1.0"
+      }
+      ]
+    
+}

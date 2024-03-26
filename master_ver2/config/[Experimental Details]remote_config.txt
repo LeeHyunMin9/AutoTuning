@@ -1,0 +1,7 @@
++ data_generation_sp1
+
++ data_generation_sp2
+
+
++ data_generation_sp3(exp_num = 3 : HS Motor,  exp_num = 
+실험 목적 : 무부하 관성에 대한 test accuracy 실험(HS Motor, 소관절)

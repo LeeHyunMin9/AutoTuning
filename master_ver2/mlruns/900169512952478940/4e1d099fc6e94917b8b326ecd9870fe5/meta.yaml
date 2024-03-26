@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/001.Developement%20of%20Company%20Work/Code_Example/AutoTuning/master_ver2/mlruns/900169512952478940/4e1d099fc6e94917b8b326ecd9870fe5/artifacts
+end_time: 1711072061576
+entry_point_name: ''
+experiment_id: '900169512952478940'
+lifecycle_stage: active
+run_id: 4e1d099fc6e94917b8b326ecd9870fe5
+run_name: Least Angle Regression
+run_uuid: 4e1d099fc6e94917b8b326ecd9870fe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711072060948
+status: 3
+tags: []
+user_id: LeeHyunMin

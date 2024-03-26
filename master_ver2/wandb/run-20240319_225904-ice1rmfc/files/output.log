@@ -1,0 +1,31 @@
+  | Name  | Type       | Params
+-------------------------------------
+0 | model | Sequential | 11.9 K
+-------------------------------------
+11.9 K    Trainable params
+0         Non-trainable params
+11.9 K    Total params
+0.047     Total estimated model params size (MB)
+C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:441: The 'val_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=15` in the `DataLoader` to improve performance.
+C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:441: The 'train_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=15` in the `DataLoader` to improve performance.
+C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytorch_lightning\loops\fit_loop.py:298: The number of training batches (36) is smaller than the logging interval Trainer(log_every_n_steps=50). Set a lower value for log_every_n_steps if you want to see logs for the training epoch.
+Epoch 8: 100%|████████████████████████████████████████████████████████████████| 36/36 [00:00<00:00, 127.76it/s, v_num=rmfc]
+
+
+
+
+Epoch 36: 100%|███████████████████████████████████████████████████████████████| 36/36 [00:00<00:00, 114.42it/s, v_num=rmfc]
+
+
+
+
+
+
+
+
+
+
+
+Epoch 97:   6%|███▌                                                            | 2/36 [00:00<00:00, 125.01it/s, v_num=rmfc]
+
+Epoch 99: 100%|████████████████████████████████████████████████████████████████| 36/36 [00:00<00:00, 86.46it/s, v_num=rmfc]

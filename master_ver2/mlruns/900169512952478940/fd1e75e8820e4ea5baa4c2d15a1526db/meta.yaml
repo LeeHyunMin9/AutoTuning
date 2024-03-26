@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/001.Developement%20of%20Company%20Work/Code_Example/AutoTuning/master_ver2/mlruns/900169512952478940/fd1e75e8820e4ea5baa4c2d15a1526db/artifacts
+end_time: 1711083139115
+entry_point_name: ''
+experiment_id: '900169512952478940'
+lifecycle_stage: active
+run_id: fd1e75e8820e4ea5baa4c2d15a1526db
+run_name: Bayesian Ridge
+run_uuid: fd1e75e8820e4ea5baa4c2d15a1526db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711083138489
+status: 3
+tags: []
+user_id: LeeHyunMin

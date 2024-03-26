@@ -1,0 +1,1662 @@
+{
+    "manip_type": "ZRA0805P",
+    "units": [
+        {
+            "type": "KBH500B4CC11    ",
+            "rev": "1.0.4",
+            "params": [
+                {
+                    "subaddress": "0",
+                    "type": "int8",
+                    "value": "8",
+                    "address": "0x6060"
+                },
+                {
+                    "subaddress": "1",
+                    "type": "int32",
+                    "value": "0xFF800001",
+                    "address": "0x607D"
+                },
+                {
+                    "subaddress": "2",
+                    "type": "int32",
+                    "value": "0x007FFFFF",
+                    "address": "0x607D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x00000001",
+                    "address": "0x605B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x00000001",
+                    "address": "0x605C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x0000000C",
+                    "address": "0x605E"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x5050"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "170",
+                    "address": "0x5051"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "25",
+                    "address": "0x5054"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5055"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5057"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "9920",
+                    "address": "0x5059"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "200",
+                    "address": "0x5071"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x5072"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "12",
+                    "address": "0x5073"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "15",
+                    "address": "0x5074"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "1000",
+                    "address": "0x5075"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x5076"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "3",
+                    "address": "0x5077"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x5078"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "300",
+                    "address": "0x5079"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "250",
+                    "address": "0x507A"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x507B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x507C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "2560",
+                    "address": "0x507D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "768",
+                    "address": "0x507E"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "480",
+                    "address": "0x507F"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "1536000",
+                    "address": "0x5080"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "30720",
+                    "address": "0x5081"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "317",
+                    "address": "0x5082"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "200",
+                    "address": "0x5083"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "167",
+                    "address": "0x5084"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "640",
+                    "address": "0x5085"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "500",
+                    "address": "0x5086"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "10",
+                    "address": "0x508A"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "250",
+                    "address": "0x508B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "314",
+                    "address": "0x508C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "314",
+                    "address": "0x508D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "850",
+                    "address": "0x5090"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5091"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "8",
+                    "address": "0x5092"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint16",
+                    "value": "0",
+                    "address": "0x5094"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint32",
+                    "value": "1000",
+                    "address": "0x5095"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0",
+                    "address": "0x512C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint16",
+                    "value": "0x00000022",
+                    "address": "0x5138"
+                }
+            ]
+        },
+        {
+            "rev": "SDC.1.0.0",
+            "type": "DBZ201A4CC11",
+            "params": [
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "8",
+                "address": "0x6060"
+              },
+              {
+                "subaddress": "1",
+                "type": "int32",
+                "value": "0xFF800001",
+                "address": "0x607D"
+              },
+              {
+                "subaddress": "2",
+                "type": "int32",
+                "value": "0x007FFFFF",
+                "address": "0x607D"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "0x00000001",
+                "address": "0x605B"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "0x00000001",
+                "address": "0x605C"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "0x0000000C",
+                "address": "0x605E"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "110",
+                "address": "0x5050"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "220",
+                "address": "0x5051"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "25",
+                "address": "0x5054"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "400",
+                "address": "0x5055"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "400",
+                "address": "0x5057"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "9920",
+                "address": "0x5059"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "0",
+                "address": "0x5071"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "50",
+                "address": "0x5072"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "12",
+                "address": "0x5073"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "15",
+                "address": "0x5074"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "1000",
+                "address": "0x5075"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "50",
+                "address": "0x5076"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "3",
+                "address": "0x5077"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "95",
+                "address": "0x5078"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "300",
+                "address": "0x5079"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "250",
+                "address": "0x507A"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "50",
+                "address": "0x507B"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "100",
+                "address": "0x507C"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "2560",
+                "address": "0x507D"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "850",
+                "address": "0x507E"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "704",
+                "address": "0x507F"
+              },
+              {
+                "subaddress": "0",
+                "type": "int32",
+                "value": "1536000",
+                "address": "0x5080"
+              },
+              {
+                "subaddress": "0",
+                "type": "int32",
+                "value": "30720",
+                "address": "0x5081"
+              },
+              {
+                "subaddress": "0",
+                "type": "int32",
+                "value": "640",
+                "address": "0x5082"
+              },
+              {
+                "subaddress": "0",
+                "type": "int32",
+                "value": "450",
+                "address": "0x5083"
+              },
+              {
+                "subaddress": "0",
+                "type": "int32",
+                "value": "360",
+                "address": "0x5084"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "640",
+                "address": "0x5085"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "500",
+                "address": "0x5086"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "10",
+                "address": "0x508A"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "500",
+                "address": "0x508B"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "314",
+                "address": "0x508C"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "314",
+                "address": "0x508D"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "850",
+                "address": "0x5090"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "400",
+                "address": "0x5091"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "8",
+                "address": "0x5092"
+              },
+              {
+                "subaddress": "0",
+                "type": "uint16",
+                "value": "0",
+                "address": "0x5094"
+              },
+              {
+                "subaddress": "0",
+                "type": "uint32",
+                "value": "1000",
+                "address": "0x5095"
+              },
+              {
+                "subaddress": "0",
+                "type": "int16",
+                "value": "0",
+                "address": "0x512C"
+              },
+              {
+                "subaddress": "0",
+                "type": "uint16",
+                "value": "0x00000022",
+                "address": "0x5138"
+              }
+            ]
+          },
+        {
+            "type": "KCH301A4CC11    ",
+            "rev": "1.0.4",
+            "params": [
+                {
+                    "subaddress": "0",
+                    "type": "int8",
+                    "value": "8",
+                    "address": "0x6060"
+                },
+                {
+                    "subaddress": "1",
+                    "type": "int32",
+                    "value": "0xFF800001",
+                    "address": "0x607D"
+                },
+                {
+                    "subaddress": "2",
+                    "type": "int32",
+                    "value": "0x007FFFFF",
+                    "address": "0x607D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x00000001",
+                    "address": "0x605B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x00000001",
+                    "address": "0x605C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x0000000C",
+                    "address": "0x605E"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "210",
+                    "address": "0x5050"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "67",
+                    "address": "0x5051"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "25",
+                    "address": "0x5054"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5055"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5057"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "9920",
+                    "address": "0x5059"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0",
+                    "address": "0x5071"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x5072"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "12",
+                    "address": "0x5073"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "15",
+                    "address": "0x5074"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "1000",
+                    "address": "0x5075"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x5076"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "3",
+                    "address": "0x5077"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "95",
+                    "address": "0x5078"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "300",
+                    "address": "0x5079"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "250",
+                    "address": "0x507A"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x507B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x507C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "2560",
+                    "address": "0x507D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "850",
+                    "address": "0x507E"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "704",
+                    "address": "0x507F"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "1024000",
+                    "address": "0x5080"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "30720",
+                    "address": "0x5081"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "1620",
+                    "address": "0x5082"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "1215",
+                    "address": "0x5083"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "1080",
+                    "address": "0x5084"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "640",
+                    "address": "0x5085"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "500",
+                    "address": "0x5086"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "17",
+                    "address": "0x508A"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "1080",
+                    "address": "0x508B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "314",
+                    "address": "0x508C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "314",
+                    "address": "0x508D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "850",
+                    "address": "0x5090"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5091"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "8",
+                    "address": "0x5092"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint16",
+                    "value": "0",
+                    "address": "0x5094"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint32",
+                    "value": "1000",
+                    "address": "0x5095"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "500",
+                    "address": "0x512C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint16",
+                    "value": "0x00000022",
+                    "address": "0x5138"
+                }
+            ]
+        },
+        {
+            "type": "KBH500B4CC11    ",
+            "rev": "1.0.4",
+            "params": [
+                {
+                    "subaddress": "0",
+                    "type": "int8",
+                    "value": "8",
+                    "address": "0x6060"
+                },
+                {
+                    "subaddress": "1",
+                    "type": "int32",
+                    "value": "0xFF800001",
+                    "address": "0x607D"
+                },
+                {
+                    "subaddress": "2",
+                    "type": "int32",
+                    "value": "0x007FFFFF",
+                    "address": "0x607D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x00000001",
+                    "address": "0x605B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x00000001",
+                    "address": "0x605C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x0000000C",
+                    "address": "0x605E"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "110",
+                    "address": "0x5050"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x5051"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "25",
+                    "address": "0x5054"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5055"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5057"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "9920",
+                    "address": "0x5059"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "200",
+                    "address": "0x5071"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x5072"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "12",
+                    "address": "0x5073"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "15",
+                    "address": "0x5074"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "1000",
+                    "address": "0x5075"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x5076"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "3",
+                    "address": "0x5077"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x5078"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "300",
+                    "address": "0x5079"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "250",
+                    "address": "0x507A"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x507B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x507C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "2560",
+                    "address": "0x507D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "768",
+                    "address": "0x507E"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "480",
+                    "address": "0x507F"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "1024000",
+                    "address": "0x5080"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "30720",
+                    "address": "0x5081"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "317",
+                    "address": "0x5082"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "200",
+                    "address": "0x5083"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "167",
+                    "address": "0x5084"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "640",
+                    "address": "0x5085"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "500",
+                    "address": "0x5086"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "10",
+                    "address": "0x508A"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "250",
+                    "address": "0x508B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "314",
+                    "address": "0x508C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "314",
+                    "address": "0x508D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "850",
+                    "address": "0x5090"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5091"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "8",
+                    "address": "0x5092"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint16",
+                    "value": "0",
+                    "address": "0x5094"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint32",
+                    "value": "1000",
+                    "address": "0x5095"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0",
+                    "address": "0x512C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint16",
+                    "value": "0x00000022",
+                    "address": "0x5138"
+                }
+            ]
+        },
+        {
+            "type": "KBH500B4CC11    ",
+            "rev": "1.0.4",
+            "params": [
+                {
+                    "subaddress": "0",
+                    "type": "int8",
+                    "value": "8",
+                    "address": "0x6060"
+                },
+                {
+                    "subaddress": "1",
+                    "type": "int32",
+                    "value": "0xFF800001",
+                    "address": "0x607D"
+                },
+                {
+                    "subaddress": "2",
+                    "type": "int32",
+                    "value": "0x007FFFFF",
+                    "address": "0x607D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x00000001",
+                    "address": "0x605B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x00000001",
+                    "address": "0x605C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x0000000C",
+                    "address": "0x605E"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "110",
+                    "address": "0x5050"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "190",
+                    "address": "0x5051"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "25",
+                    "address": "0x5054"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5055"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5057"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "9920",
+                    "address": "0x5059"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "200",
+                    "address": "0x5071"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x5072"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "12",
+                    "address": "0x5073"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "15",
+                    "address": "0x5074"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "1000",
+                    "address": "0x5075"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x5076"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "3",
+                    "address": "0x5077"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x5078"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "300",
+                    "address": "0x5079"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "250",
+                    "address": "0x507A"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x507B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x507C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "2560",
+                    "address": "0x507D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "768",
+                    "address": "0x507E"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "480",
+                    "address": "0x507F"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "1536000",
+                    "address": "0x5080"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "30720",
+                    "address": "0x5081"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "317",
+                    "address": "0x5082"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "200",
+                    "address": "0x5083"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "167",
+                    "address": "0x5084"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "640",
+                    "address": "0x5085"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "500",
+                    "address": "0x5086"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "10",
+                    "address": "0x508A"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "250",
+                    "address": "0x508B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "314",
+                    "address": "0x508C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "314",
+                    "address": "0x508D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "850",
+                    "address": "0x5090"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5091"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "8",
+                    "address": "0x5092"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint16",
+                    "value": "0",
+                    "address": "0x5094"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint32",
+                    "value": "1000",
+                    "address": "0x5095"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0",
+                    "address": "0x512C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint16",
+                    "value": "0x00000022",
+                    "address": "0x5138"
+                }
+            ]
+        },
+        {
+            "type": "KBH500B4CC11    ",
+            "rev": "1.0.4",
+            "params": [
+                {
+                    "subaddress": "0",
+                    "type": "int8",
+                    "value": "8",
+                    "address": "0x6060"
+                },
+                {
+                    "subaddress": "1",
+                    "type": "int32",
+                    "value": "0xFF800001",
+                    "address": "0x607D"
+                },
+                {
+                    "subaddress": "2",
+                    "type": "int32",
+                    "value": "0x007FFFFF",
+                    "address": "0x607D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x00000001",
+                    "address": "0x605B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x00000001",
+                    "address": "0x605C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0x0000000C",
+                    "address": "0x605E"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x5050"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "170",
+                    "address": "0x5051"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "25",
+                    "address": "0x5054"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5055"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5057"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "9920",
+                    "address": "0x5059"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "200",
+                    "address": "0x5071"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x5072"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "12",
+                    "address": "0x5073"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "15",
+                    "address": "0x5074"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "1000",
+                    "address": "0x5075"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x5076"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "3",
+                    "address": "0x5077"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x5078"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "300",
+                    "address": "0x5079"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "250",
+                    "address": "0x507A"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "50",
+                    "address": "0x507B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "100",
+                    "address": "0x507C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "2560",
+                    "address": "0x507D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "768",
+                    "address": "0x507E"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "480",
+                    "address": "0x507F"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "1536000",
+                    "address": "0x5080"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "30720",
+                    "address": "0x5081"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "317",
+                    "address": "0x5082"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "200",
+                    "address": "0x5083"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int32",
+                    "value": "167",
+                    "address": "0x5084"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "640",
+                    "address": "0x5085"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "500",
+                    "address": "0x5086"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "10",
+                    "address": "0x508A"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "250",
+                    "address": "0x508B"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "314",
+                    "address": "0x508C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "314",
+                    "address": "0x508D"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "850",
+                    "address": "0x5090"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "400",
+                    "address": "0x5091"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "8",
+                    "address": "0x5092"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint16",
+                    "value": "0",
+                    "address": "0x5094"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint32",
+                    "value": "1000",
+                    "address": "0x5095"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "int16",
+                    "value": "0",
+                    "address": "0x512C"
+                },
+                {
+                    "subaddress": "0",
+                    "type": "uint16",
+                    "value": "0x00000022",
+                    "address": "0x5138"
+                }
+            ]
+        }
+    ],
+    "manip_serial": ""
+}

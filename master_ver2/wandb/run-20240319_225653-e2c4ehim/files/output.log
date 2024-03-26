@@ -1,0 +1,8 @@
+  | Name  | Type       | Params
+-------------------------------------
+0 | model | Sequential | 11.9 K
+-------------------------------------
+11.9 K    Trainable params
+0         Non-trainable params
+11.9 K    Total params
+0.047     Total estimated model params size (MB)

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/001.Developement%20of%20Company%20Work/Code_Example/AutoTuning/master_ver2/mlruns/900169512952478940/7579f5c4b91340f19e6dd5730b50b5f0/artifacts
+end_time: 1711082822495
+entry_point_name: ''
+experiment_id: '900169512952478940'
+lifecycle_stage: active
+run_id: 7579f5c4b91340f19e6dd5730b50b5f0
+run_name: AdaBoost Regressor
+run_uuid: 7579f5c4b91340f19e6dd5730b50b5f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711082821900
+status: 3
+tags: []
+user_id: LeeHyunMin
